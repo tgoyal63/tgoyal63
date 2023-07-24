@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tushar Goyal</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">Passionate full-stack developer looking for new opportunities</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tgoyal63&label=Profile%20views&color=0e75b6&style=flat" alt="tgoyal63" /> </p>
 
